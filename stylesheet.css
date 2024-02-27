@@ -1,0 +1,57 @@
+
+
+p {
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    background-color: #C2E0FF; /* Your chosen background color */
+    padding: 10px;
+    border-radius: 5px;
+}
+h2 {
+    border: 2px solid #4CAF50; /* Green border */
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #D5F5E3; /* Mint green fill color */
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #ECF0F1; /* Light grayish background */
+}
+
+nav {
+    background-color: #3498DB; /* Blue background */
+    padding: 2px; /* Increase top and bottom padding */
+    border: 2px solid #3498DB; /* Blue border */
+    border-radius: 10px;
+    text-align: center;
+    border-spacing: 20px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 25px;
+}
+
+nav a {
+    color: #FFFFFF; /* White text color */
+    text-decoration: none;
+    padding: 10px; /* Adjust padding as needed */
+    background-color: #2C3E50; /* Dark gray background */
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #E74C3C; /* Red background on hover */
+}
+
+h1 {
+    border: 2px solid #BFFFF5; /* Purple border */
+    padding: 15px;
+    background-color: #3498DB; /* Blue background */
+    color: white;
+    border-radius: 8px;
+    font-size: 25;
+}
