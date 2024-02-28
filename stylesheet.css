@@ -3,27 +3,27 @@
 p {
     font-size: 15px;
     font-family: Arial, sans-serif;
-    background-color: #C2E0FF; /* Your chosen background color */
+    background-color: #C2E0FF; 
     padding: 10px;
     border-radius: 5px;
 }
 h2 {
-    border: 2px solid #4CAF50; /* Green border */
+    border: 2px solid #4CAF50; 
     padding: 10px;
     border-radius: 5px;
-    background-color: #D5F5E3; /* Mint green fill color */
+    background-color: #D5F5E3; 
 }
 
 body {
     width: 900px;
     margin: 0 auto;
-    background-color: #ECF0F1; /* Light grayish background */
+    background-color: #ECF0F1; 
 }
 
 nav {
-    background-color: #3498DB; /* Blue background */
-    padding: 2px; /* Increase top and bottom padding */
-    border: 2px solid #3498DB; /* Blue border */
+    background-color: #3498DB; 
+    padding: 2px; 
+    border: 2px solid #3498DB; 
     border-radius: 10px;
     text-align: center;
     border-spacing: 20px;
@@ -37,22 +37,22 @@ nav li {
 }
 
 nav a {
-    color: #FFFFFF; /* White text color */
+    color: #FFFFFF; 
     text-decoration: none;
-    padding: 10px; /* Adjust padding as needed */
-    background-color: #2C3E50; /* Dark gray background */
+    padding: 10px; 
+    background-color: #2C3E50; 
     border-radius: 5px;
 }
 
 nav a:hover {
     background-color: #E74C3C;
-    text-decoration: underline; /* Red background on hover */
+    text-decoration: underline; 
 }
 
 h1 {
-    border: 2px solid #BFFFF5; /* Purple border */
+    border: 2px solid #BFFFF5; 
     padding: 15px;
-    background-color: #3498DB; /* Blue background */
+    background-color: #3498DB; 
     color: white;
     border-radius: 8px;
     font-size: 25;
