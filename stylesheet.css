@@ -27,6 +27,7 @@ nav {
     border-radius: 10px;
     text-align: center;
     border-spacing: 20px;
+
 }
 
 nav li {
@@ -44,7 +45,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #E74C3C; /* Red background on hover */
+    background-color: #E74C3C;
+    text-decoration: underline; /* Red background on hover */
 }
 
 h1 {
